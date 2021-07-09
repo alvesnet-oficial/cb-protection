@@ -7,7 +7,7 @@
 
 
 <p align="center">
-    <img src="/Diagrama de Rede - Seguranca em todos dispositivos.pdf" width="800" height="600">
+    <img src="/Diagrama de Rede - Simples.jpg" width="800" height="600">
 </p>
 
 
